@@ -1,5 +1,5 @@
 ## Welcome!
-[as.jpg](personal/as.jpg)
+[personal/as.jpg](personal/as.jpg)
 
 ### Markdown
 
