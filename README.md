@@ -1,5 +1,5 @@
 ## Welcome!
-![GitHub Logo](personal/as.jpg)
+![as](personal/as.jpg)
 
 ### Markdown
 
