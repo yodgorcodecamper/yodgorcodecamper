@@ -1,5 +1,5 @@
 ## Welcome!
-![as](personal/as.jpg)
+![p_pic](/personal/as.jpg)
 
 ### Markdown
 
