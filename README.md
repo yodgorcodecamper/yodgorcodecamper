@@ -1,9 +1,12 @@
 ## Welcome!
 ![pic_p](/personal/as.png)
+#Yodgor Shukhratbekov
+#App Developer
+#shukhratyo@mnstate.edu
 
-### Markdown
+### This are my works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to check them out!
 
 ```markdown
 Syntax highlighted code block
