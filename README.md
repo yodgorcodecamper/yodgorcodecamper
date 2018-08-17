@@ -4,7 +4,7 @@
 #App Developer
 #shukhratyo@mnstate.edu
 
-### This are my works
+### These are my works
 
 Feel free to check them out!
 
