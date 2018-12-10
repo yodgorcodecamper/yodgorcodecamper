@@ -3,7 +3,7 @@
 ##Yodgor Shukhratbekov
 ##App Developer
 ##shukhratyo@mnstate.edu
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Yodgorbek Shukhratbekov</a></div>
 ### These are my works
 
 Feel free to check them out!
