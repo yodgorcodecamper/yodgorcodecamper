@@ -1,5 +1,6 @@
 ## Welcome!
 ![pic_p](/personal/as.png)
+<br>
 ##Yodgor (Edgar) Shukhratbekov
 ##IT Technician & Software/Web Developer
 ##shukhratbekov.yodgorbek@gmail.com
