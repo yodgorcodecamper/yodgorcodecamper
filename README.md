@@ -7,13 +7,20 @@
 <a href="mailto:shukhratbekov.yodgorbek@gmail.com">shukhratbekov.yodgorbek@gmail.com</a>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Click to see My LinkedIn Profile/a></div>
-<h5> Education<h5>
+<h4> Education</h4>
   <ul>
   <li>Bachelor of Science in Computer Information Technology</li> 
   <li>Dean’s List, Overall GPA: 3.46</li> 
-  <li>Senior at Minnesota State University Moorhead (MSUM), Moorhead, MN, August 2017 – August 2020</li>
-<ul>
-Feel free to check them out!
+  <li>Senior at Minnesota State University Moorhead (MSUM), Moorhead, MN, August 2017 – August 2020</li><ul>
+  <h4> Employment </h4>
+  <h5> Assistant System Administrator, Minnesota State University Moorhead IT Deparment                          2019</h5>
+  <ul>
+  <li>Maintain more than 400 student web accounts</li> 
+  <li>Maintain student web server</li> 
+  <li>Program and maintain campus doors </li>
+  <li>Maintain list-serves for faculty and students </li>
+  <li>Advanced Linux and Server-side scripting while maintaining a web and mailman servers</li>
+  <ul>
 
 ```markdown
 Syntax highlighted code block
