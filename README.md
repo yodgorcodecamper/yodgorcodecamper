@@ -1,9 +1,9 @@
-## Welcome!
+<h1> Welcome!</h1>
 ![pic_p](/personal/as.png)
 <br>
-##Yodgor (Edgar) Shukhratbekov
-##IT Technician & Software/Web Developer
-##shukhratbekov.yodgorbek@gmail.com
+<h2>Yodgor (Edgar) Shukhratbekov</h2>
+<h2>IT Technician & Software/Web Developer<h2>
+<a href="mailto:shukhratbekov.yodgorbek@gmail.com">shukhratbekov.yodgorbek@gmail.com</a>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Yodgorbek Shukhratbekov</a></div>
 ### Education
 
