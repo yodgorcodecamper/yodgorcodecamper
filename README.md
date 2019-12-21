@@ -1,12 +1,18 @@
 <h1> Welcome!</h1>
 ![pic_p](/personal/as.png)
 <br>
-<h2>Yodgor (Edgar) Shukhratbekov</h2>
-<h2>IT Technician & Software/Web Developer<h2>
-<a href="mailto:shukhratbekov.yodgorbek@gmail.com">shukhratbekov.yodgorbek@gmail.com</a>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Yodgorbek Shukhratbekov</a></div>
-### Education
 
+<h3>Yodgor (Edgar) Shukhratbekov</h3>
+<h3>IT Technician & Software/Web Developer<h3>
+<a href="mailto:shukhratbekov.yodgorbek@gmail.com">shukhratbekov.yodgorbek@gmail.com</a>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Yodgorbek Shukhratbekov</a></div>
+<h5> Education<h5>
+  <ul>
+  <li>Bachelor of Science in Computer Information Technology</li> 
+  <li>Dean’s List, Overall GPA: 3.46</li> 
+  <li>Senior at Minnesota State University Moorhead (MSUM), Moorhead, MN, August 2017 – August 2020</li>
+<ul>
 Feel free to check them out!
 
 ```markdown
