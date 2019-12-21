@@ -12,6 +12,7 @@
   <li>Bachelor of Science in Computer Information Technology</li> 
   <li>Dean’s List, Overall GPA: 3.46</li> 
   <li>Senior at Minnesota State University Moorhead (MSUM), Moorhead, MN, August 2017 – August 2020</li><ul>
+  </ul>
   <h4> Employment </h4>
   <h5> Assistant System Administrator, Minnesota State University Moorhead IT Deparment                          2019</h5>
   <ul>
@@ -20,7 +21,7 @@
   <li>Program and maintain campus doors </li>
   <li>Maintain list-serves for faculty and students </li>
   <li>Advanced Linux and Server-side scripting while maintaining a web and mailman servers</li>
-  <ul>
+  </ul>
 
 ```markdown
 Syntax highlighted code block
