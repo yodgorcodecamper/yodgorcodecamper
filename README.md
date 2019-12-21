@@ -6,7 +6,7 @@
 <h3>IT Technician & Software/Web Developer<h3>
 <a href="mailto:shukhratbekov.yodgorbek@gmail.com">shukhratbekov.yodgorbek@gmail.com</a>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Yodgorbek Shukhratbekov</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Click to see My LinkedIn Profile/a></div>
 <h5> Education<h5>
   <ul>
   <li>Bachelor of Science in Computer Information Technology</li> 
