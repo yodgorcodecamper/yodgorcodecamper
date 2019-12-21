@@ -12,7 +12,7 @@
 <ul>
 <li>Bachelor of Science in Computer Information Technology</li> 
 <li>Dean’s List, Overall GPA: 3.46</li> 
-<li>Senior at Minnesota State University Moorhead (MSUM), Moorhead, MN, August 2017 – August 2020</li><ul>
+<li>Senior at Minnesota State University Moorhead (MSUM), Moorhead, MN, August 2017 – August 2020</li>
 </ul>
 
 <h4> Employment </h4>
