@@ -48,9 +48,8 @@
 <ul>
 <li>Participated in Global Azure Bootcamp 2019, North Dakota State College of Science 2019</li> 
 <li>Created instant pages for Telegram mobile application  </li> 
-<li>Programming Languages: Python, JavaScript, C#, PHP, MySQL and Java  </li>
-<li>Participated in International Collegiate Programming Contest 2018 • 
-      o	The 2018 North Central NA Regional Contest
+<li>Participated in International Collegiate Programming Contest 2018 <br> 
+      o	The 2018 North Central NA Regional Contest <br>
       o	Advanced problem-solving skills writing algorithms to solve the contest questions. 
   </li>
 <li>Volunteered at Swing For Student Success Golf Tournament, Oakland, CA 2017 
