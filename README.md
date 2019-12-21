@@ -7,7 +7,7 @@
 <a href="mailto:shukhratbekov.yodgorbek@gmail.com">shukhratbekov.yodgorbek@gmail.com</a>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Click to see My LinkedIn Profile</a></div>
-
+<br>
 <h4> Education</h4>
 <ul>
 <li>Bachelor of Science in Computer Information Technology</li> 
