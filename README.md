@@ -1,24 +1,24 @@
 ## Welcome!
 ![pic_p](/personal/as.png)
-##Yodgor Shukhratbekov
-##App Developer
-##shukhratyo@mnstate.edu
+##Yodgor (Edgar) Shukhratbekov
+##IT Technician & Software/Web Developer
+##shukhratbekov.yodgorbek@gmail.com
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="edgar-shukhratbekov-a90016113"><a class="LI-simple-link" href='https://www.linkedin.com/in/edgar-shukhratbekov-a90016113?trk=profile-badge'>Yodgorbek Shukhratbekov</a></div>
-### These are my works
+### Education
 
 Feel free to check them out!
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Employment
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-## Hobbies
-### Interests
+## Skills
+### Projects and Extracurricular Activities:
 
 - Bulleted
 - List
