@@ -2,7 +2,7 @@
 ![pic_p](/personal/as.png)
 <br>
 
-<h3>Yodgor (Edgar) Shukhratbekov</h3>
+<h3>Yodgor (Yoddy) Shukhratbekov</h3>
 <h3>IT Technician & Software/Web Developer<h3>
 <a href="mailto:shukhratbekov.yodgorbek@gmail.com">shukhratbekov.yodgorbek@gmail.com</a>
 
