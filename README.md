@@ -1,6 +1,6 @@
 ### Hi there, I'm Yoga <img src="as.png" width="25px">
 
-## React Front-end developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
+## React full-stack developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
 
 
 - 🌱 I’m currently learning React Native && Node.js && Next.js
