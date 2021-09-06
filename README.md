@@ -1,4 +1,4 @@
-### Hi there, I'm Yoga <img src="as.png" width="25px">
+### Hi there, I'm Yodgor <img src="as.png" width="25px">
 
 ## React full-stack developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
 
