@@ -1,4 +1,4 @@
-### Hi there, I'm Yoga <img src="" width="25px">
+### Hi there, I'm Yoga <img src="as.png" width="25px">
 
 ## React Front-end developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
 
