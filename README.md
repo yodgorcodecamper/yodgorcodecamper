@@ -7,7 +7,6 @@
 - 👨‍💻 Looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and 
 - ⚡ Fun facts: I like playing chess, playing footy and absurd jokes.
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
 <br/>
 <br/>
