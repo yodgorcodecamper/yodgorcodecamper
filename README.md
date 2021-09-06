@@ -11,8 +11,6 @@
 
 <br/>
 <br/>
-### Spotify Playing 🎧 
-
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
