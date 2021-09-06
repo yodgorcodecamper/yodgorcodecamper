@@ -14,9 +14,6 @@
 ### Spotify Playing 🎧 
 
 ### Connect with me:
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="300" />](https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75?si=27f048e4c0ba4590)
-
-### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
