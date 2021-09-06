@@ -40,7 +40,24 @@
 <br />
 <br />
 
+</details>
 
+
+<br>
+
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=yodgor&show_icons=true&include_all_commits=true&count_private=true" alt="kholdarboev"/> 
+ </p>
+ 
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodgor&layout=compact" alt="languages"/>
+ </p>
+
+
+
+
+
+<details>
 
 [website]: https://yoga.urspace.io/
 [instagram]: https://www.instagram.com/shukhratbekov__/
