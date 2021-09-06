@@ -4,9 +4,9 @@
 
 
 - 🌱 I’m currently learning React Native && Node.js && Next.js
-- 👨‍💻 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects 
-- ⚡ Fun facts: I love to travel, sky-diving, snowboarding, soccer
+- 👨‍💻 Looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects and 
+- ⚡ Fun facts: I like playing chess, playing footy and absurd jokes.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
