@@ -51,7 +51,7 @@
  </p>
  
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodgor&layout=compact" alt="languages"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  </p>
 
 
