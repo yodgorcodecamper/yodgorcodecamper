@@ -51,7 +51,8 @@
  </p>
  
  <p align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yodgor=anuraghazra&langs_count=8)](https://github.com/yodgor/)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yodgor&layout=compact)](https://github.com/yodgor/github-readme-stats)
+
  </p>
 
 
