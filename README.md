@@ -1,12 +1,8 @@
 ### Hi there, I'm Yodgor <img src="as.png" width="25px">
 
-## React full-stack developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>  
+## Python Enthusiast!!
 
-
-- 🌱 I’m currently learning React Native && Node.js && Next.js
-- 👨‍💻 Looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and 
-- ⚡ Fun facts: I like playing chess, playing footy and absurd jokes.
+- 🥅 2022 Goals: Contribute more to Open Source projects and 
 
 <br/>
 <br/>
