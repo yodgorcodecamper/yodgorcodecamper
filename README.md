@@ -2,8 +2,6 @@
 
 ## Python Enthusiast!!
 
-- 🥅 2022 Goals: Contribute to Open Source projects
-
 <br/>
 <br/>
 
