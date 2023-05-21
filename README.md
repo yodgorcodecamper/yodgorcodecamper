@@ -16,14 +16,14 @@
 
 <br>
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=yodgor&show_icons=true&include_all_commits=true&count_private=true" alt="yodgor"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username=yodgor&show_icons=true&include_all_commits=true&count_private=true" alt="yodgorcodecamper"/> 
  </p>
  
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodgor&layout=compact&langs_count=8" alt="languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yodgorcodecamper&layout=compact&langs_count=8" alt="languages"/>
  </p>
  
 
 [website]: https://yoga.urspace.io/
-[instagram]: https://www.instagram.com/shukhratbekov__/
+[instagram]: https://www.instagram.com/shukhratyo/
 [linkedin]: https://www.linkedin.com/in/yodgor-shukhratbekov-a90016113
