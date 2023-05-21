@@ -16,7 +16,7 @@
 
 <br>
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=yodgor&show_icons=true&include_all_commits=true&count_private=true" alt="yodgorcodecamper"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username=yodgorcodecamper&show_icons=true&include_all_commits=true&count_private=true" alt="yodgorcodecamper"/> 
  </p>
  
  <p align="center">
